@@ -1,4 +1,4 @@
-# react-web3-components
+# Web3-React-Demo
 
 A set components to create DApp interfaces using react.
 
